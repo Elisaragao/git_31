@@ -7,8 +7,9 @@
   <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-   <h1> Versionamento com GIT/GIT HUB</h1>
+  <h1> Versionamento com GIT/GIT HUB</h1>
   <h1>i love the smiths</h1>
   <h1>i love fleetwood mac</h1>
+  <a href="pagina1.php">Ir para a página 1</a>
 </body>
 </html>
