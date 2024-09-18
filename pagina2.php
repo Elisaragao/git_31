@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <button> Botão 1</button>
+
 </body>
 </html>
