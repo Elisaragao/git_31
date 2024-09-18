@@ -8,6 +8,10 @@
 <body>
 
 <h1>Página 1</h1>
+<form action="">
+    <input type="button" placeholder="Cadastrar">
+
+</form>
 
 </body>
 </html>
